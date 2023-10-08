@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meghanmcclain
-- 👀 I’m interested in computer science and the stock market. I would like to expand my computer science skills and use github to document that.
+- 👀 I’m interested in computer science, finance/business & data science. I would like to expand my computer science skills and use github to document that.
 - 🌱 I am interested in learning about artificial intelligency, machine learning, and automation
 - 💞️ I’m looking to collaborate on anything and everything. If I don't know something, I'm willing to Google and watch videos on YouTube until I know.
 - 📫 How to reach me: email: meghan@meghanmcclain.com; website: https://meghanmcclain.com
